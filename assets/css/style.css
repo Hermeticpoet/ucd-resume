@@ -65,9 +65,26 @@ header {
     color: #ffffff;
 }
 
-.list-inline {
-    padding-left: 0;
-    margin-left: 15px;
-    list-style: none;
+#nav {
+    margin:0 0 0 15px;
 }
 
+.menuitem {
+    padding: 0;
+    height: 120px;
+    text-align: center;
+}
+
+.menuitem a {
+    height: 120px;
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menuitem a i {
+    padding-top: 26px;
+    display: block;
+    font-size: 28px;
+    color: #fafafa;
+}
