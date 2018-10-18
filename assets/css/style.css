@@ -88,3 +88,14 @@ header {
     font-size: 28px;
     color: #fafafa;
 }
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
