@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 /*-----------------------------Colours--------------------------*/
 
 .bg-color-name-title {
@@ -58,5 +63,11 @@ header {
     margin-top: 20px;
     margin-bottom: 90px;
     color: #ffffff;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: 15px;
+    list-style: none;
 }
 
