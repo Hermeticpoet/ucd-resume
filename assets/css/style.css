@@ -69,6 +69,10 @@ header {
     margin:0 0 0 15px;
 }
 
+#nav li {
+    padding: 0;
+}
+
 .menuitem {
     padding: 0;
     height: 120px;
@@ -98,4 +102,11 @@ header {
     padding-top: 5px;
     text-align: center;
     text-transform: uppercase;
+}
+
+/*-----------------------------Hover.css--------------------------*/
+
+.hvr-sweep-to-bottom:before {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 120px;
 }
