@@ -16,6 +16,10 @@ body {
     background-color: #676767;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ul-menu-color-home {
     background-color: #e67e22;
 }
@@ -56,11 +60,6 @@ h5 {
     display: inline-block;
 }
 
-.section-column {
-    padding: 0 30px 30px;
-    float: none;
-    display: table-cell;
-}
 
 .row-table {
     display: table;
@@ -219,3 +218,18 @@ footer .cv-pdf i:hover {
 .three-reasons-heading {
     margin-bottom: 15px;
 }
+
+/*-----------------------------Personal Info--------------------------*/
+
+
+
+/*-----------------------------Media Queries--------------------------*/
+
+@media (min-width: 992px) {
+    .section-column {
+    padding: 0 30px 30px;
+    float: none;
+    display: table-cell;
+    }
+}
+
