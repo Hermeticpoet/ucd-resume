@@ -24,6 +24,10 @@ body {
     background-color: #9b59b6;
 }
 
+.bg-color-contact {
+    background-color: #ffffff;
+}
+
 .ul-menu-color-home {
     background-color: #e67e22;
 }
@@ -327,6 +331,10 @@ footer .cv-pdf i:hover {
     content: "";
     background-color: #fafafa;
 }
+
+/*-----------------------------Contact--------------------------*/
+
+
 
 /*-----------------------------Media Queries--------------------------*/
 
