@@ -9,4 +9,5 @@ No new ground is being broken here. I am keeping it conventional and aesthetic w
 
 ## The Presentation
 
-Basic colour theory was used in creating my palette and as Purple and Green are two of my favourite colours I have based the scheme around them.
+I used basic colour theory in creating my palette for this site. Two of my favourite colours are Purple and Green, 
+therefore, I opted for the triadic colour scheme that includes green, purple and orange. 
